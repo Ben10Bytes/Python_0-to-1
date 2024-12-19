@@ -1,3 +1,4 @@
+# Write a program to accept marks of 6 students and display them in sorted manner.
 Marks=[]
 M1=int(input("Student1 Marks:"))
 Marks.append(M1)
