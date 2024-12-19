@@ -10,4 +10,4 @@ l1=[1,12,123,12345,123456]
 #l1.append('name')
 #l1.remove(12)
 l1.pop(3) # if you want to delete any one index to use .pop() list
-print(l1)t
+print(l1)
