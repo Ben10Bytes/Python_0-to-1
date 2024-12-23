@@ -18,4 +18,3 @@ removed_item = marks.popitem()
 
 print(removed_item)  # ('Eve', 88)
 print(marks)         # {'Alice': 90, 'Bob': 85}
-Ha
