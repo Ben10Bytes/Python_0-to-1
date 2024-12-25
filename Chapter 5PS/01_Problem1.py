@@ -4,7 +4,8 @@ Words={
     "Achha": "Good",
     "Bura": "Bad",
     "Sundar": "Beautiful",
-    "Humesa": "Always"
+    "Humesa": "Always",
+    "aesa hi": "like this"
 }
 
 Word=input("Which word you want to mean : ")
