@@ -12,4 +12,5 @@ if(Total_Percentage>=40 and Subject1_Marks>=33 and Subject2_Marks>=33 and Subjec
     #print("You are passed : ",Total_Percentage) #if you want to print without percentage 
 
 else:
-    print("failed!,You want to try next year")    
+    print("failed!,You try next year")
+        
