@@ -8,7 +8,7 @@ P4="click this"
 
 message = input("Write your comment : ")
 
-if ((P1 in message) or (P2 in message) or (P3 in message)):
+if ((P1 in message) or (P2 in message) or (P3 in message)): #if a certain element is present in a Python object
     print("This is spam!!")
 
 else:
