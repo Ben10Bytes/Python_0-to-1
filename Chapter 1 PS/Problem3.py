@@ -1,6 +1,6 @@
 import pyttsx3
 engine = pyttsx3.init()
-engine.say("naughty america does it better ")
+engine.say("If you like better then you use my Github accoutn for learning ")
 engine.runAndWait()
 
 import pyttsx3
@@ -22,7 +22,7 @@ voices = engine.getProperty('voices')       #getting details of current voice
 #engine.setProperty('voice', voices[0].id)  #changing index, changes voices. o for male
 engine.setProperty('voice', voices[1].id)   #changing index, changes voices. 1 for female
 
-engine.say("does it better no body does it better ummmmmm!")
+engine.say("somebody told me why use your github account for learning , I say's that , it is unique")
 engine.say('My current speaking rate is ' + str(rate))
 engine.runAndWait()
 engine.stop()
