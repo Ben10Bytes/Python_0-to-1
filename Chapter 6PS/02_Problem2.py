@@ -5,7 +5,9 @@ Subject1_Marks = int(input("Enter the marks Subject1 : "))
 Subject2_Marks = int(input("Enter the marks Subject2 : "))
 Subject3_Marks = int(input("Enter the marks Subject3 : "))
 
-Total_Percentage = (100*(Subject1_Marks + Subject2_Marks + Subject3_Marks))/300
+#Total_Percentage = (100*(Subject1_Marks + Subject2_Marks + Subject3_Marks))/300
+Total_Percentage = (Subject1_Marks + Subject2_Marks + Subject2_Marks)/3
+
 
 if(Total_Percentage>=40 and Subject1_Marks>=33 and Subject2_Marks>=33 and Subject3_Marks>=33):
     print("You are passed "+ str(Total_Percentage) + "%") 

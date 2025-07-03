@@ -1,9 +1,9 @@
 # Write a program to find the greatest of four numbers entered by the users.
 
-a1 = int(input("Enter the number 1: "))
-a2 = int(input("Enter the number 2: "))
-a3 = int(input("Enter the number 3: "))
-a4 = int(input("Enter the number 4: "))
+a1 = float(input("Enter the number 1: "))
+a2 = float(input("Enter the number 2: "))
+a3 = float(input("Enter the number 3: "))
+a4 = float(input("Enter the number 4: "))
 
 if (a1>a2 and a1>a3 and a1>a4):
     print("Greatest number is a1 :",a1)

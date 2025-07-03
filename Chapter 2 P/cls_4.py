@@ -1,7 +1,9 @@
-#a=5
-#b=6
-#print(a is b)
-#print(id(a))
+"""a=5
+b=6
+print(a is b)
+print(id(a)) This will print the memory address of the integer object 5.
+Since 5 is a small integer, it is interned, and the id(a) will be the same as the id(b)."""
+
 #print(id(b))
 
 # list
