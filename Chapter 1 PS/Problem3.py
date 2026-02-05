@@ -1,6 +1,6 @@
 import pyttsx3
 engine = pyttsx3.init()
-engine.say("If you like better then you use my Github accoutn for learning ")
+engine.say("If you like better then you use my Github account for learning ")
 engine.runAndWait()
 
 import pyttsx3
