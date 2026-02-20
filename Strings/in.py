@@ -23,6 +23,18 @@ print("depend" in txt)
                     True
 
 
+3).
+
+txt = "The life lesson is depend on your thought"
+if "depend" in txt:
+    print("yes, 'free' is present")
+
+    output will be:
+                    yes , 'free' is present
+
+
 
 """
+
+
 
