@@ -11,7 +11,7 @@ print(newname.title()) # If I want to all of the starting letter of each word is
 print(name.find("n"))
 
 s="ben10bytes is not a bad character"
-print(s.replace("bad","nearly good"))
+print(s.replace("not a bad","nearly good"))
 
 t="Hey Ben10bytes"
 print(t.swapcase())
