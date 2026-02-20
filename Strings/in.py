@@ -33,8 +33,28 @@ if "depend" in txt:
                     yes , 'free' is present
 
 
+4).
+
+txt = "Why are you late dude"
+print("ontime" not in txt)
+    Output will be:
+                    True
+
+                    
+5).
+
+txt = "Why are you late dude"
+if "ontime" not in txt:
+    print("No, 'ontime'is NOT present ")
+
+    Output will be:
+                    No, 'ontime' is NOT present
+
 
 """
+
+
+
 
 
 
