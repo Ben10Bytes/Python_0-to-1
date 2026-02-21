@@ -15,3 +15,7 @@ print(s.replace("not a bad","nearly good"))
 
 t="Hey Ben10bytes"
 print(t.swapcase())
+
+
+a = "Forgive me!"
+print(a.upper())
