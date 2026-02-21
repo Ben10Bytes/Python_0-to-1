@@ -19,3 +19,6 @@ print(c.replace("W", "Z")) # The replace() method replaces a string with another
 
 print(c.strip().replace("Welcome", "Go"))
 print(c.replace("Welcome", "Go").strip()) # Both line will be same
+print("--".join(c))
+# print(c.append("grapes")) .append use for list
+c = c + ""
